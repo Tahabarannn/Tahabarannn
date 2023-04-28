@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as DevOps Leader<br>🌱 I’m currently learning Angular & .Net Core<br>⚡ Fun fact - I am a disciplined and dreamer
+🔭 I’m currently working as Software Developer<br>🌱 I’m currently learning Angular & .Net Core<br>⚡ Fun fact - I am a disciplined and dreamer
 
 
 ## 🌐 Socials:
