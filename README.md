@@ -1,4 +1,4 @@
-![MasterHead](https://i.ibb.co/9gRCLp4/Adobe-Stock-360470926.jpg)
+<img alt="banner" width="1000" height="350" src="https://i.ibb.co/9gRCLp4/Adobe-Stock-360470926.jpg">
 
 <h1 align="center">Hi 👋, I'm Taha</h1>
 <h3 align="center">Passionate about science and technology</h3>
