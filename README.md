@@ -7,7 +7,7 @@ Jr. Software Developer & Jr. Cyber Security Analyst
 I've been in the tech industry since a young age. I am interested in software development, Cyber Security and Artificial Intelligence.
 
 * 🌍  I'm based in Somewhere
-* 🖥️  See my portfolio at [myPortfolio](http://tahabaran.ninja)
+* 🖥️  See my portfolio at [myPortfolio](https://tahabarannn.github.io/Portfolio/)
 * ✉️  You can contact me at [tahabarann@hotmail.com](mailto:tahabarann@hotmail.com)
 * 🚀  I'm currently working on Freelance Projects
 * 🧠  I'm learning Cyber Security, Python, Tensorflow, OpenCV, NumPy
